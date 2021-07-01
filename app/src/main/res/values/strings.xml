@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="enter_the_name_hint">Enter the name</string>
+    <string name="enter_the_id_hint">Enter the ID</string>
+    <string name="enter_date_of_birth">Enter the Date of Birth</string>
+    <string name="enter_the_Blood_group">Enter the Blood Group</string>
+    <string name="enter_the_phone_number">Enter the Phone Number</string>
+    <string name="enter_state">Enter State</string>
+    <string name="enter_district">Enter District</string>
+    <string name="enter_your_birth_place_hint">Enter your birth place</string>
+
+</resources>
